@@ -1,0 +1,20 @@
+Result: defeat, Time: 14.03s, PlayerSteps: 0, NPCSteps: 0, TrailUses: 0, Sightings: 2, ExploreTime: 0.02s, ChaseTime: 0.27s
+Result: defeat, Time: 6.26s, PlayerSteps: 0, NPCSteps: 0, TrailUses: 0, Sightings: 0, ExploreTime: 0.01s, ChaseTime: 0.12s
+Result: Player has reached the goal!, Time: 12.12s, PlayerSteps: 0, NPCSteps: 0, TrailUses: 0, Sightings: 0, ExploreTime: 0.02s, ChaseTime: 0.26s
+Result: Player has reached the goal!, Time: 11.61s, PlayerSteps: 0, NPCSteps: 0, TrailUses: 0, Sightings: 0, ExploreTime: 0.02s, ChaseTime: 0.23s
+Result: Player has reached the goal!, Time: 10.93s, PlayerSteps: 34, NPCSteps: 27, TrailUses: 0, Sightings: 0, ExploreTime: 0.02s, ChaseTime: 0.19s
+Result: Player has reached the goal!, Time: 11.69s, PlayerSteps: 30, NPCSteps: 28, TrailUses: 0, Sightings: 5, ExploreTime: 0.03s, ChaseTime: 0.35s
+Result: Player has reached the goal!, Time: 13.02s, PlayerSteps: 38, NPCSteps: 34, TrailUses: 0, Sightings: 6, ExploreTime: 0.02s, ChaseTime: 0.25s
+Result: Player has reached the goal!, Time: 12.73s, PlayerSteps: 36, NPCSteps: 33, TrailUses: 0, Sightings: 10, ExploreTime: 0.02s, ChaseTime: 0.25s
+Result: Player has reached the goal!, Time: 22.08s, PlayerSteps: 72, NPCSteps: 94, TrailUses: 76, Sightings: 2, ExploreTime: 0.31s, ChaseTime: 0.37s
+Result: defeat, Time: 23.69s, PlayerSteps: 60, NPCSteps: 72, TrailUses: 73, Sightings: 3, ExploreTime: 0.29s, ChaseTime: 0.16s
+Result: defeat, Time: 20.53s, PlayerSteps: 70, NPCSteps: 167, TrailUses: 78, Sightings: 9, ExploreTime: 0.34s, ChaseTime: 0.91s
+Result: Player has reached the goal!, Time: 17.07s, PlayerSteps: 57, NPCSteps: 116, TrailUses: 28, Sightings: 10, ExploreTime: 0.13s, ChaseTime: 0.78s
+Result: Player has reached the goal!, Time: 33.78s, PlayerSteps: 119, NPCSteps: 105, TrailUses: 122, Sightings: 14, ExploreTime: 0.32s, ChaseTime: 0.43s
+Result: defeat, Time: 20.52s, PlayerSteps: 63, NPCSteps: 60, TrailUses: 63, Sightings: 6, ExploreTime: 0.17s, ChaseTime: 0.23s
+Result: defeat, Time: 6.24s, PlayerSteps: 12, NPCSteps: 11, TrailUses: 5, Sightings: 2, ExploreTime: 0.02s, ChaseTime: 0.08s
+-Result: defeat, Time: 55.15s, PlayerSteps: 137, NPCSteps: 332, TrailUses: 148, Sightings: 38, ExploreTime: 0.90s, ChaseTime: 3.00s
+Result: defeat, Time: 21.04s, PlayerSteps: 60, NPCSteps: 60, TrailUses: 0, Sightings: 25, ExploreTime: 0.05s, ChaseTime: 0.79s
+Result: defeat, Time: 26.76s, PlayerSteps: 81, NPCSteps: 80, TrailUses: 0, Sightings: 22, ExploreTime: 0.05s, ChaseTime: 0.85s
+Result: Player has reached the goal!, Time: 3.19s, PlayerSteps: 7, NPCSteps: 0, TrailUses: 0, Sightings: 0, ExploreTime: 0.01s, ChaseTime: 0.00s
+Result: Player has reached the goal!, Time: 14.45s, PlayerSteps: 21, NPCSteps: 38, TrailUses: 7, Sightings: 0, ExploreTime: 0.33s, ChaseTime: 0.00s

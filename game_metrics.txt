@@ -1,0 +1,1 @@
+[14/5/2025 3:06:07 AM] Result: defeat, Time: 7.40s, PlayerSteps: 0, NPCSteps: 0, TrailUses: 0, Sightings: 0, ExploreTime: 0.01s, ChaseTime: 0.12s
